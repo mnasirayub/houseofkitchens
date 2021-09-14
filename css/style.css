@@ -89,7 +89,7 @@ body {
     font-weight: bold;
 }
 
-.hero button {
+.hero a {
     width: 150px;
     border-radius: 0px;
     padding: 7px;
@@ -97,6 +97,8 @@ body {
     font-weight: bold;
     background-color: #f47721;
     color: white;
+    text-align: center;
+    text-decoration: none;
 }
 
 .aboutus {
@@ -129,7 +131,7 @@ body {
     margin-bottom: 20px;
 }
 
-.aboutus button {
+.aboutus a {
     width: 140px;
     font-size: 17px;
     font-weight: bold;
@@ -137,6 +139,10 @@ body {
     outline: none;
     border: 1px solid black;
     background: transparent;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
 }
 
 .parallex {
@@ -261,6 +267,15 @@ footer{
 .services h2, .gallery h2{
     font-weight: bold;
 }
+
+
+/* gallery styling */
+
+
+
+
+
+
 @media only screen and (max-width: 768px) {
  .hero{
      display: flex;
@@ -279,7 +294,13 @@ footer{
      justify-content: center;
      flex-direction: column;
  }
- .aboutus .col-sm-12{
+ .aboutus .col-lg-6{
+     display: flex;
+     justify-content: center !important;
+     align-items: center !important;
+     flex-direction: column;
+ }
+ .aboutus p{
      text-align: center;
  }
  .parallex{
