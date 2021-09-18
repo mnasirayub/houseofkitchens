@@ -18,7 +18,7 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg ">
+    <nav class="navbar sticky-top navbar-expand-lg ">
         <div class="container">
             <a class="navbar-brand" href="#"><img src="imgs/hk.png" class="img-fluid"></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -48,7 +48,6 @@
         </div>
     </nav>
     <div class="hero">
-        <img src="imgs/hk.png" class="img-fluid">
         <h1>House of Kitchens</h1>
         <p>
             Promising Luxury Kitchens Under Your Budget
@@ -85,12 +84,12 @@
         <div class="container">
             <div class="row mb-5 text-center d-flex">
                 <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="box">
+                    <div class="box" onclick="kitchensWardrobs()">
                         <h3>Luxury Kitchens<br>&<br>Wardrobes</h3>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="box">
+                    <div class="box" onclick="mediaWall()">
                         <h3>Media Walls<br>&<br>Console</h3>
                     </div>
                 </div>
@@ -111,7 +110,7 @@
     </div>
     <div class="gallery" id="gallery">
         <div class="container">
-            <h2 class="text-center mt-5 mb-5">Our Work Gallery</h2>
+            <h2 class="text-center mt-5 mb-5">Gallery</h2>
             <div class="row">
                 <div class="col-6">
                     <div class="row">
@@ -194,43 +193,14 @@
         </div>
     </div>
     <footer>
-        &copy; 2021 All Rights Reserved | House of Kitchens | Developed by ScriptOne
+        &copy; 2021 All Rights Reserved | House of Kitchens
     </footer>
-
-
-    <!-- Messenger Chat Plugin Code -->
-    <div id="fb-root"></div>
-
-    <!-- Your Chat Plugin code -->
-    <div id="fb-customer-chat" class="fb-customerchat">
-    </div>
-
-    <script>
-        var chatbox = document.getElementById('fb-customer-chat');
-        chatbox.setAttribute("page_id", "115125450831620");
-        chatbox.setAttribute("attribution", "biz_inbox");
-
-        window.fbAsyncInit = function () {
-            FB.init({
-                xfbml: true,
-                version: 'v11.0'
-            });
-        };
-
-        (function (d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s);
-            js.id = id;
-            js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
-            fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));
-    </script>
 </body>
 <script src="https://kit.fontawesome.com/d6fb912aa0.js"></script>
 <!-- JavaScript Bundle with Popper -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous">
 </script>
+<script src="js/script.js"></script>
 
 </html>
