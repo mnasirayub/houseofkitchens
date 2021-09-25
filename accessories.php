@@ -14,7 +14,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Exo:wght@200&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/kitchens&wardrobes.css">
+    <link rel="stylesheet" href="css/accessories.css">
 </head>
 
 <body>
@@ -29,19 +29,19 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="index.html">Home</a>
+                        <a class="nav-link" aria-current="page" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#aboutus">About Us</a>
+                        <a class="nav-link" href="index.php">About Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="#services">Our Services</a>
+                        <a class="nav-link active" href="index.php">Our Services</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#gallery">Gallery</a>
+                        <a class="nav-link" href="index.php">Gallery</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#contact">Contact Us</a>
+                        <a class="nav-link" href="index.php">Contact Us</a>
                     </li>
                 </ul>
             </div>
@@ -49,76 +49,57 @@
     </nav>
     <div class="kitchens mb-5 mt-5">
         <div class="container">
-            <h2 class="mt-5 mb-5 text-center">Media Walls</h2>
+            <h2 class="mt-5 mb-5 text-center">Accessories / Appliances</h2>
             <div class="row first">
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <small>House of Kitchens</small>
-                    <h3 class="mt-3 mb-3">Media Wall</h3>
+                    <h3 class="mt-3 mb-3">Twin Set Ovation Black/Silver Large Fast Boil Dome Kettle & Wide Slot 2-Slice
+                        Toaster</h3>
                     <p>
-                        If you move into a tract home, there is a good chance that your family room will have a wall
-                        cut-out made for a media cabinet. Not only are many media cabinets clunky and expensive.
+                        Ovation Black/Silver Large Fast Boil Dome Kettle & Wide Slot 2-Slice Toaster Set Classic Silver
+                        & Black stylish breakfast set for your kitchen from our Ovation Supreme Home Range Designed for
+                        the way you live Kettle Specifications World leading Strix manufactured kettle base Large 1.8L
+                        Capacity (Approx 8 cups per boil) Concealed heating element Vintage dome shape Boil dry and
+                        overheat protection Automatic switch off 360° Swivel base with non-slip feet 2200W - Power
+                        Weight - 1.1KG Toaster.
                     </p>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
-                    <img src="imgs/media-wall1.jfif" alt="" class="img-fluid">
+                    <img src="imgs/Twin Set Ovation.jfif" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="row second">
                 <div class="col-lg-6 col-md-6 col-sm-12">
-                    <img src="imgs/media-wall2.jfif" alt="" class="img-fluid">
+                    <img src="imgs/Colorful Kitchen Utensil.jfif" alt="" class="img-fluid">
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <small>House of Kitchens</small>
-                    <h3 class="mt-3 mb-3">Media Wall, Feature TV Fireplace</h3>
+                    <h3 class="mt-3 mb-3">Colorful Kitchen Utensil Set</h3>
                     <p>
-                        From the original tv fireplace feature wall company we have added grey shelving and storage
-                        units to the Samsung frame tv and vel 140 ddsigner electric fire.
+                        Upgrade your kitchen with bright colors! Silicone Utensil Set is Kitchen helper, perfect for all
+                        types of foods and cooking&kitchen accessories: Series set - meet various cooking needs Color
+                        display - you can choose the color you want Elegant bamboo handle - lightweight and ergonomic to
+                        provide the ultimate comfort Food grade silicon - Non-stick, Non-scratch, Safe BPA free Storage
+                        bucket - prevent scattered and messy placement of kitchenware High heat resistant - Non-stick
+                        silicone head heat.
                     </p>
                 </div>
             </div>
             <div class="row first">
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <small>House of Kitchens</small>
-                    <h3 class="mt-3 mb-3">Moduler Collection</h3>
+                    <h3 class="mt-3 mb-3">13-Piece Kitchen Sink Accessory Kit</h3>
                     <p>
-                        Striking in its simplicity, our Media Collection's clean-lined shape is enhanced by a glossy
-                        lacquer finish in our light gray Haze. Each piece is designed to sit together to easily
-                        accommodate a growing entertainment system.
+                        Stainless steel all-in-one multi-purpose dish rack kitchen organizer! This state-of-the-art
+                        kitchen helper will save you lots of space and time on dish washing and organizing. The dish
+                        rack complete set comes with everything you need in a compact design: 1 x dish rack, 1 x bowl
+                        rack, 1 x knifes and cutlery holder, 1 x utensil holder, 1 x veggies and fruits holder, 1 x
+                        cutting board holder, 1 x dish soap and sponge holder, 5 x utensil hooks, 1 x wine glass and cup
+                        holder.
                     </p>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
-                    <img src="imgs/moduler-media2.jfif" alt="" class="img-fluid">
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="wardrobes">
-        <div class="container mt-5 mb-5">
-            <h2 class="mb-5 text-center">Media Consoles</h2>
-            <div class="row first">
-                <div class="col-lg-6 col-md-6 col-sm-12 p-5">
-                    <img src="imgs/media-console2.jfif" alt="" class="img-fluid">
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12">
-                    <small>House of Kitchens</small>
-                    <h3 class="mt-3 mb-3">Media Console</h3>
-                    <p>
-                        Why You'll Love It Made from sustainably sourced mango wood and lofted on blackened steel legs,
-                        our Industrial Storage Media Console brings modern charm to media storage. Its mix of open and
-                        closed storage lets you choose: display or hide away. sustainably sourced contract grade.
-                    </p>
-                </div>
-            </div>
-            <div class="row second">
-                <div class="col-lg-6 col-md-6 col-sm-12">
-                    <small>House of Kitchens</small>
-                    <h3 class="mt-3 mb-3">4 Door Media Console</h3>
-                    <p>
-                        4-door Media Console:A celebration of simple forms and luxe materials.
-                    </p>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12 p-5">
-                    <img src="imgs/media-console2.png" alt="" class="img-fluid">
+                    <img src="imgs/eModernDecor 13-Piece Kitchen.jfif" alt="" class="img-fluid">
                 </div>
             </div>
         </div>

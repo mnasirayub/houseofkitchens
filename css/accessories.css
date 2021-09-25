@@ -1,12 +1,10 @@
 .navbar,
-.wardrobes,
 .kitchens,
 footer {
     font-family: 'Exo', sans-serif;
     color: #f49921;
 }
 
-.wardrobes small,
 .kitchens small {
     text-transform: uppercase;
     font-weight: bold;
@@ -54,12 +52,47 @@ body {
     width: 40px;
     height: 40px;
 }
+.kitchens{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
+.kitchens .first .col-lg-6:nth-child(1) {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.kitchens .first .col-lg-6:nth-child(2) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.kitchens .second .col-lg-6:nth-child(1) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.kitchens .second .col-lg-6:nth-child(2) {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+}
 @media only screen and (max-width: 768px){
-    .wardrobes, .kitchens{
+    .kitchens{
         text-align: center;
     }
-    .wardrobes img, .kitchens img{
+     .kitchens img{
         height: auto;
     }
     .col-lg-6{
@@ -69,7 +102,7 @@ body {
         justify-content: center !important;
         flex-direction: column;
     }
-    .kitchens .second, .wardrobes .second{
+    .kitchens .second{
         flex-direction: column-reverse;
     }
 }

@@ -29,19 +29,19 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="index.html">Home</a>
+                        <a class="nav-link" aria-current="page" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#aboutus">About Us</a>
+                        <a class="nav-link" href="index.php">About Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="#services">Our Services</a>
+                        <a class="nav-link active" href="index.php">Our Services</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#gallery">Gallery</a>
+                        <a class="nav-link" href="index.php">Gallery</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#contact">Contact Us</a>
+                        <a class="nav-link" href="index.php">Contact Us</a>
                     </li>
                 </ul>
             </div>
@@ -49,75 +49,76 @@
     </nav>
     <div class="kitchens mb-5 mt-5">
         <div class="container">
-            <h2 class="mt-5 mb-5 text-center">Kitchens</h2>
+            <h2 class="mt-5 mb-5 text-center">Media Walls</h2>
             <div class="row first">
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <small>House of Kitchens</small>
-                    <h3 class="mt-3 mb-3">Contemporary Kitchen</h3>
+                    <h3 class="mt-3 mb-3">Media Wall</h3>
                     <p>
-                        Stunning contemporary kitchen with dark units and feature lighting. Extension design and kitchen
-                        by Lime Showrooms.
+                        If you move into a tract home, there is a good chance that your family room will have a wall
+                        cut-out made for a media cabinet. Not only are many media cabinets clunky and expensive.
                     </p>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
-                    <img src="imgs/contemporary-kitchen.jfif" alt="" class="img-fluid">
+                    <img src="imgs/media-wall1.jfif" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="row second">
                 <div class="col-lg-6 col-md-6 col-sm-12">
-                    <img src="imgs/30 Mid Century Modern Kitchen.png" alt="" class="img-fluid">
+                    <img src="imgs/media-wall2.jfif" alt="" class="img-fluid">
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <small>House of Kitchens</small>
-                    <h3 class="mt-3 mb-3">30 Mid Century Modern Kitchen</h3>
+                    <h3 class="mt-3 mb-3">Media Wall, Feature TV Fireplace</h3>
                     <p>
-                        Modernist inspired, bespoke kitchen manufacturers Wood & Wire, round up their favourite mid
-                        century modern kitchen design ideas, resources and inspiration.
+                        From the original tv fireplace feature wall company we have added grey shelving and storage
+                        units to the Samsung frame tv and vel 140 ddsigner electric fire.
                     </p>
                 </div>
             </div>
             <div class="row first">
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <small>House of Kitchens</small>
-                    <h3 class="mt-3 mb-3">Contemporary Kitchen</h3>
+                    <h3 class="mt-3 mb-3">Moduler Collection</h3>
                     <p>
-                        With a contemporary palette of black and Rift Sawn white oak, marbled quartz and gold detailing combined with more traditional.
+                        Striking in its simplicity, our Media Collection's clean-lined shape is enhanced by a glossy
+                        lacquer finish in our light gray Haze. Each piece is designed to sit together to easily
+                        accommodate a growing entertainment system.
                     </p>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
-                    <img src="imgs/contemporary-kitchen2.jfif" alt="" class="img-fluid">
+                    <img src="imgs/moduler-media2.jfif" alt="" class="img-fluid">
                 </div>
             </div>
         </div>
     </div>
     <div class="wardrobes">
         <div class="container mt-5 mb-5">
-            <h2 class="mb-5 text-center">Wardrobes</h2>
+            <h2 class="mb-5 text-center">Media Consoles</h2>
             <div class="row first">
                 <div class="col-lg-6 col-md-6 col-sm-12 p-5">
-                    <img src="imgs/Bovill Road Wardrobe.png" alt="" class="img-fluid">
+                    <img src="imgs/media-console2.jfif" alt="" class="img-fluid">
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <small>House of Kitchens</small>
-                    <h3 class="mt-3 mb-3">Bovill Road Wardrobe</h3>
+                    <h3 class="mt-3 mb-3">Media Console</h3>
                     <p>
-                        Fully bespoke plywood fitted wardrobe. Made out of birch plywood carcasses,
-                        laminated doors and oak bottom drawers on Blum push to open runners. This wardrobe functions as
-                        good as it looks.
+                        Why You'll Love It Made from sustainably sourced mango wood and lofted on blackened steel legs,
+                        our Industrial Storage Media Console brings modern charm to media storage. Its mix of open and
+                        closed storage lets you choose: display or hide away. sustainably sourced contract grade.
                     </p>
                 </div>
             </div>
             <div class="row second">
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <small>House of Kitchens</small>
-                    <h3 class="mt-3 mb-3">Walk-In Wardrobe</h3>
+                    <h3 class="mt-3 mb-3">4 Door Media Console</h3>
                     <p>
-                        Walk in wardrobes, luxurious dressing rooms, and custom closet systems. Featuring beautiful
-                        closet lighting insallations and closet organisation ideas.
+                        4-door Media Console:A celebration of simple forms and luxe materials.
                     </p>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 p-5">
-                    <img src="imgs/walk-in.jfif" alt="" class="img-fluid">
+                    <img src="imgs/media-console2.png" alt="" class="img-fluid">
                 </div>
             </div>
         </div>

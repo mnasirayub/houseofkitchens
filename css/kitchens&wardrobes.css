@@ -128,3 +128,22 @@ footer {
     padding: 20px;
     background-color: black;
 }
+
+@media only screen and (max-width: 768px){
+    .wardrobes, .kitchens{
+        text-align: center;
+    }
+    .wardrobes img, .kitchens img{
+        height: auto;
+    }
+    .col-lg-6{
+        padding: 7px !important;
+        display: flex;
+        align-items: center !important;
+        justify-content: center !important;
+        flex-direction: column;
+    }
+    .kitchens .second, .wardrobes .second{
+        flex-direction: column-reverse;
+    }
+}

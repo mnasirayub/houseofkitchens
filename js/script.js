@@ -1,9 +1,9 @@
 function kitchensWardrobs(){
-    window.location.href = 'kitchens&wardrobs.html';
+    window.location.href = 'kitchens&wardrobs.php';
 }
 function mediaWall(){
-    window.location.href = 'media-wall&console.html';
+    window.location.href = 'media-wall&console.php';
 }
 function appliances(){
-    window.location.href = '';
+    window.location.href = 'accessories.php';
 }

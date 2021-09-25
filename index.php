@@ -52,7 +52,7 @@
         <p>
             Promising Luxury Kitchens Under Your Budget
         </p>
-        <a class="btn btn-default" href="#gallery">Explore More</a>
+        <a class="btn btn-default" href="#services">Explore More</a>
     </div>
     <div class="aboutus" id="aboutus">
         <div class="container">
@@ -94,7 +94,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="box">
+                    <div class="box" onclick="appliances()">
                         <h3>Kitchen Appliances<br>&<br>Accessories</h3>
                     </div>
                 </div>
@@ -112,26 +112,26 @@
         <div class="container">
             <h2 class="text-center mt-5 mb-5">Gallery</h2>
             <div class="row">
-                <div class="col-6">
+                <div class="col-lg-6 col-md-6 col-sm-12">
                     <div class="row">
-                        <div class="col-6 mb-2"><img src="imgs/gallery1.jfif" alt="" class="img-fluid"></div>
-                        <div class="col-6 mb-2"><img src="imgs/gallery2.jfif" alt="" class="img-fluid"></div>
-                        <div class="col-6"><img src="imgs/gallery4.jfif" alt="" class="img-fluid"></div>
-                        <div class="col-6"><img src="imgs/gallery5.png" alt="" class="img-fluid"></div>
+                        <div class="col-lg-6 col-md-6 col-sm-12 mb-2"><img src="imgs/gallery1.jfif" alt="" class="img-fluid"></div>
+                        <div class="col-lg-6 col-md-6 col-sm-12 mb-2"><img src="imgs/gallery2.jfif" alt="" class="img-fluid"></div>
+                        <div class="col-lg-6 col-md-6 col-sm-12"><img src="imgs/gallery4.jfif" alt="" class="img-fluid"></div>
+                        <div class="col-lg-6 col-md-6 col-sm-12"><img src="imgs/gallery5.png" alt="" class="img-fluid"></div>
                     </div>
                 </div>
-                <div class="col-6"><img src="imgs/kitchen9.jfif" style="height: 100%;" alt="" class="img-fluid"></div>
+                <div class="col-lg-6 col-md-6 col-sm-12"><img src="imgs/kitchen9.jfif" style="height: 100%;" alt="" class="img-fluid"></div>
             </div>
             <div class="row mt-2">
-                <div class="col-6"><img src="imgs/kitchen8.jfif" style="height: 100%;" alt="" class="img-fluid"></div>
-                <div class="col-6">
+                <div class="col-lg-6 col-md-6 col-sm-12"><img src="imgs/kitchen8.jfif" style="height: 100%;" alt="" class="img-fluid"></div>
+                <div class="col-lg-6 col-md-6 col-sm-12">
                     <div class="row">
-                        <div class="col-6 mb-2"><img src="imgs/kitchen7.png" alt="" class="img-fluid"></div>
-                        <div class="col-6 mb-2"><img src="imgs/kitchen8.jfif" style="height: 100%;" alt=""
+                        <div class="col-lg-6 col-md-6 col-sm-12 mb-2"><img src="imgs/kitchen7.png" alt="" class="img-fluid"></div>
+                        <div class="col-lg-6 col-md-6 col-sm-12 mb-2"><img src="imgs/kitchen8.jfif" style="height: 100%;" alt=""
                                 class="img-fluid"></div>
-                        <div class="col-6"><img src="imgs/kitchen9.jfif" style="height: 100%;" alt="" class="img-fluid">
+                        <div class="col-lg-6 col-md-6 col-sm-12"><img src="imgs/kitchen9.jfif" style="height: 100%;" alt="" class="img-fluid">
                         </div>
-                        <div class="col-6"><img src="imgs/kitchen10.jfif" alt="" class="img-fluid"></div>
+                        <div class="col-lg-6 col-md-6 col-sm-12"><img src="imgs/kitchen10.jfif" alt="" class="img-fluid"></div>
                     </div>
                 </div>
             </div>

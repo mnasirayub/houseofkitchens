@@ -336,6 +336,9 @@ footer{
  .gallery{
      height: auto;
  }
+ .gallery .col-lg-6{
+     margin-bottom: 10px;
+ }
  .footer{
      height: auto !important;
      padding-top: 20px;
